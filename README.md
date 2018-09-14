@@ -1,0 +1,2 @@
+# SICP
+just reading notes
