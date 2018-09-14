@@ -1,0 +1,5 @@
+Lisp is not a mainstream language due to its inefficieny, but why they use it as framework for discussion of programm?
+Because lisp possesses a unique feature that makes it an excellent medium for study
+
+The most significant of these features is the fact that lisp description of processed, called procedure, can themselves 
+be represented and manipulated as Lisp data
